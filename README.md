@@ -14,9 +14,9 @@
 💬 Want to talk about something, feel free to reach me out.
 
 <div align="center">
-<h3> You can find in me in the web 🌍</h3>
+<h3> You can find me in the web 🌍</h3>
 
-[![Linkedin: rohanacharya](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawanprjl/)](https://www.linkedin.com/in/rohan-acharya-467282186/)
+[![Linkedin: pawanprjl](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawanprjl/)](https://www.linkedin.com/in/pawanprjl/)
 [![Mail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pawanparajuli8@gmail.com)
 </div>
 
