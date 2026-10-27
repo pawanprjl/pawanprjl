@@ -1,6 +1,6 @@
 ## Hi, I'm Pawan 👋
 
-_Tech Lead · Backend, System Design & Cloud_
+_Tech Lead · Backend · System Design & Cloud_
 
 I started as a full-stack engineer and now lead teams while staying hands-on. I care about building systems that are reliable, secure, and still easy to change years later, and about finding the simplest design that does the job well.
 
